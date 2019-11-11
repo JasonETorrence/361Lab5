@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="361Lab5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="361Lab5">
+				<Option output="C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/361Lab5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 361Lab5"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="361Lab5/fast">
+				<Option output="C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/361Lab5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 361Lab5/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/sarge/CLionProjects/361Lab5/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Driver.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Driver.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Ant.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Ant.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Bodyguard/BodyGuard.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Bodyguard/BodyGuard.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Fire/Fire.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Fire/Fire.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Harvester/Harverster.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Harvester/Harverster.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/LongThrower/LongThrower.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/LongThrower/LongThrower.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Ninja/Ninja.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Ninja/Ninja.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Queen/Queen.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Queen/Queen.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/ShortThrower/ShortThrower.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/ShortThrower/ShortThrower.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Thrower/Thrower.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Thrower/Thrower.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Wall/Wall.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Ant/Wall/Wall.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Bee/Bee.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Bee/Bee.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Insect.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Insect/Insect.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Player/Player.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Player/Player.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Utilities/Purchaser.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Utilities/TotallyNotAVector.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Utilities/Utilities.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/Utilities/Utilities.h">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/main.cpp">
+			<Option target="361Lab5"/>
+		</Unit>
+		<Unit filename="C:/Users/sarge/CLionProjects/361Lab5/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
